@@ -1,0 +1,221 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Paid Memberships Pro - Sponsored Members Add On\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-17 21:52+0000\n"
+"PO-Revision-Date: 2020-05-17 21:54+0000\n"
+"Last-Translator: Sébastien Beausoleil\n"
+"Language-Team: Français du Canada\n"
+"Language: fr_CA\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.4; wp-5.4.1"
+
+#: pmpro-sponsored-members.php:454
+#, php-format
+msgid ""
+"This user has fewer seats than they had sponsored accounts. The sponsored "
+"accounts have been deactivated. The user must have his sponsored accounts "
+"checkout again using the code: %s."
+msgstr ""
+"Cet usager à un nombre de places commanditées inférieur au nombre de comptes "
+"commandités. Les comptes commandités ont été désactivés. Les usagers de ces "
+"comptes commandités doivent refaire le processus de paiement à nouveau en "
+"utilisant ce code de réduction: %s."
+
+#: pmpro-sponsored-members.php:506
+#, php-format
+msgid ""
+"<p><strong>Notice:</strong>Your current membership has fewer seats than you "
+"had sponsored accounts. The accounts have been deactivated. You must have "
+"your sponsored accounts checkout again using your code: %s.</p>"
+msgstr ""
+"<p><strong>Note:</strong>Votre adhésion actuelle comporte moins de places "
+"pour comptes commandités que le nombre de comptes commandités enregistrés. "
+"Les comptes commandités ont été désactivés. Vous devez vous assurer que les "
+"comptes commandités refassent le processus de paiement avec votre code: %s."
+"</p>"
+
+#: pmpro-sponsored-members.php:673 pmpro-sponsored-members.php:675
+msgid "Give this code to your sponsored members to use at checkout:"
+msgstr ""
+"Donnez ce code à vos membres commandités afin qu'ils l'utilisent durant le "
+"paiement de leur adhésion:"
+
+#: pmpro-sponsored-members.php:673 pmpro-sponsored-members.php:1891
+#: pmpro-sponsored-members.php:2039
+msgid "Or provide one of these direct links to register:"
+msgstr "Ou transmettez l'un de ces liens direct pour l'inscription:"
+
+#: pmpro-sponsored-members.php:675 pmpro-sponsored-members.php:1893
+#: pmpro-sponsored-members.php:2041
+msgid "Or provide this direct link to register:"
+msgstr "Ou transmettez ce lien direct pour l'inscription:"
+
+#: pmpro-sponsored-members.php:685 pmpro-sponsored-members.php:1905
+msgid "This code has unlimited uses."
+msgstr "Ce code à un nombre illimité d'utilisation."
+
+#: pmpro-sponsored-members.php:687
+#, php-format
+msgid "This code has %d uses."
+msgstr "Ce code a été utilisé %d fois."
+
+#: pmpro-sponsored-members.php:749
+msgid "You must use a valid discount code to register for this level."
+msgstr ""
+"Vous devez utiliser un code de réduction valide pour vous inscrire à ce "
+"niveau d'adhésion."
+
+#: pmpro-sponsored-members.php:777
+msgid "The sponsor for this code is inactive. Ask them to renew their account."
+msgstr ""
+"Le commanditaire (compte principal) de ce code est inactif. Demandez lui de "
+"renouveler son adhésion."
+
+#: pmpro-sponsored-members.php:783
+msgid ""
+"Sponsors are not permitted to sign up for sponsored levels. This is most "
+"likely a mistake."
+msgstr ""
+"Les commanditaires (compte principal) ne peuvent adhérer à un niveau "
+"d'adhésion faisant parti des niveaux pouvant être commandités. Il s'agit "
+"probablement d'une erreur."
+
+#: pmpro-sponsored-members.php:796 pmpro-sponsored-members.php:801
+msgid "."
+msgstr ""
+
+#: pmpro-sponsored-members.php:814
+msgid "Parent Account"
+msgstr "Compte Principal (parent)"
+
+#: pmpro-sponsored-members.php:842
+msgid "For Sponsored Accounts"
+msgstr "Pour Comptes Commandités"
+
+#: pmpro-sponsored-members.php:846
+msgid "User ID:"
+msgstr "ID Usager"
+
+#: pmpro-sponsored-members.php:849
+msgid "The user ID of the main account holder."
+msgstr ""
+"Le numéro d'identification (ID) de l'usager propriétaire du compte principal."
+
+#: pmpro-sponsored-members.php:916
+msgid "Would you like to purchase extra seat(s)?"
+msgstr ""
+"Voulez-vous acheter une(des) place(s) (compte commandité) supplémentaire(s)?"
+
+#: pmpro-sponsored-members.php:918
+msgid "Would you like to create extra account(s)?"
+msgstr "Voulez vous créer un(des) compte(s) supplémentaire(s)?"
+
+#: pmpro-sponsored-members.php:925
+msgid "Number of Seats"
+msgstr "Nombre de places (comptes à commanditer)"
+
+#: pmpro-sponsored-members.php:937
+#, php-format
+msgid "Enter a number from %d to %d. %s"
+msgstr "Entrer un nombre de %d à %d. %s"
+
+#: pmpro-sponsored-members.php:939
+#, php-format
+msgid "Enter a number from %d to %d. +%s per extra seat."
+msgstr ""
+"Entrer un nombre de %d à %d. +%s par places (comptes commandités) "
+"supplémentaires."
+
+#: pmpro-sponsored-members.php:1068
+msgid "First Name"
+msgstr "Prénom"
+
+#: pmpro-sponsored-members.php:1071
+msgid "Last Name"
+msgstr "Nom de famille"
+
+#: pmpro-sponsored-members.php:1076
+msgid "Username"
+msgstr "Nom d'usager"
+
+#: pmpro-sponsored-members.php:1081
+msgid "Email"
+msgstr "Courriel"
+
+#: pmpro-sponsored-members.php:1086
+msgid "Password"
+msgstr "Mot de passe"
+
+#: pmpro-sponsored-members.php:1725 pmpro-sponsored-members.php:1742
+msgid "Sponsor Code"
+msgstr "Code du commanditaire"
+
+#: pmpro-sponsored-members.php:1731
+msgid "Seats"
+msgstr "Places"
+
+#: pmpro-sponsored-members.php:1743
+msgid "This membership level does not include a sponsor code."
+msgstr "Ce niveau d'adhésion n'inclut pas de code commandité"
+
+#: pmpro-sponsored-members.php:1754
+msgid "Parent"
+msgstr "Parent"
+
+#: pmpro-sponsored-members.php:1782 pmpro-sponsored-members.php:1887
+msgid "Sponsored Members"
+msgstr "Membres Commandités"
+
+#: pmpro-sponsored-members.php:1889
+#, php-format
+msgid ""
+"Give this code to your sponsored members to use at checkout: <strong>"
+"%s</strong></p>"
+msgstr ""
+"Donnez ce code à vos membres commandités afin qu'ils l'utilisent durant le "
+"paiement de leur adhésion: <strong>%s</strong></p>"
+
+#: pmpro-sponsored-members.php:1907
+#, php-format
+msgid "%s/%s uses."
+msgstr "%s/%s utilisations"
+
+#: pmpro-sponsored-members.php:2006
+msgid "Accounts created at checkout:"
+msgstr "Comptes créés à la réception du paiement:"
+
+#: pmpro-sponsored-members.php:2036
+#, php-format
+msgid "Give this code to your sponsored members to use at checkout: %s"
+msgstr ""
+"Donnez ce code à vos membres commandités afin qu'ils l'utilisent durant le "
+"paiement de leur adhésion: %s"
+
+#. Name of the plugin
+msgid "Paid Memberships Pro - Sponsored Members Add On"
+msgstr "Paid Memberships Pro - Complément pour Membres Commandités"
+
+#. Description of the plugin
+msgid ""
+"Generate discount code for a main account holder to distribute to sponsored "
+"members."
+msgstr ""
+"Génère un code de réduction au propriétaire du compte principal afin de le "
+"distribuer aux membres commandités"
+
+#. URI of the plugin
+msgid "https://www.paidmembershipspro.com/add-ons/pmpro-sponsored-members/"
+msgstr "https://www.paidmembershipspro.com/add-ons/pmpro-sponsored-members/"
+
+#. Author of the plugin
+msgid "Paid Memberships Pro"
+msgstr "Paid Memberships Pro"
+
+#. Author URI of the plugin
+msgid "https://www.paidmembershipspro.com"
+msgstr "https://www.paidmembershipspro.com"
